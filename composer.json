@@ -1,0 +1,15 @@
+{
+    "name": "hnesk/german-stemmer",
+    "description": "A German Stemmer",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Aris Buzachis",
+            "email": "buzachis.aris@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["GermanStemmer.php"]
+    }
+}
